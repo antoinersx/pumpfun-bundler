@@ -1,6 +1,7 @@
 # Pump.fun Bundler - The Ultimate Memecoin Launch Tool
 
 A **Bundler** is the ultimate tool that gives you a competitive edge in the crypto market to launch meme coins on pump.fun.
+
 This bundler is available on [infinityscripts.fun](https://www.infinityscripts.fun/) Discord's discord server.
 
 ## What is a Pump.fun Bundler?
