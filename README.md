@@ -8,7 +8,10 @@ This bundler is available on [infinityscripts.fun](https://www.infinityscripts.f
 **A Pump.fun Bundler** is designed to help you create, manage, and maximise your meme coin launch. From automatic wallet generation to sniping and spreading tokens, this tool does it all—and (and fast).
 
 If you’ve ever found yourself frustrated by launching a memecoin and losing out to snipers, not controlling enough of the supply, then this bundler is here to change that. Let’s break down exactly how it works and why it’s a game-changer.
-Here is a video of how it works [![Watch the video](https://img.youtube.com/vi/nGvrYz6JX8o/maxresdefault.jpg)](https://www.youtube.com/watch?v=nGvrYz6JX8o)
+Here is a video of how it works:
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nGvrYz6JX8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Why You Need the Pump.fun Bundler
