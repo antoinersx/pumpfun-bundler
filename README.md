@@ -68,7 +68,7 @@ By the way, this is the vanity function mentioned above.
 2. **Launch Your Token:** Use the bundler to create and bundle-buy your token, ensuring you get the best entry price with multiple wallets and front ran the snipers.
 3. **Manage Your Assets:** Use the various sell modes and Raydium support to manage your tokens effectively, ensuring you maximise your gains.
 
-**Don't miss out!** To get ths Pump.fun Bundler and start dominating the memecoins market today. If you want to see a full launched, check [here]([https://www.infinityscripts.fun/](https://medium.com/@AntoineRSX/how-to-launch-a-meme-coin-on-pump-fun-with-a-bundler-bot-0f7bdd87054f).
+**Don't miss out!** To get ths Pump.fun Bundler and start dominating the memecoins market today. If you want to see a full launched, check [here](https://medium.com/@AntoineRSX/how-to-launch-a-meme-coin-on-pump-fun-with-a-bundler-bot-0f7bdd87054f).
 
 ## FAQs
 
