@@ -76,6 +76,20 @@ By the way, this is the vanity function mentioned above.
 
 **Don't miss out!** To get ths Pump.fun Bundler and start dominating the memecoins market today. If you want to see a full launched, check [here](https://medium.com/@AntoineRSX/how-to-launch-a-meme-coin-on-pump-fun-with-a-bundler-bot-0f7bdd87054f).
 
+## Updates
+Infinity AIO V4.0 3 - Aug - 2024
+Added PnL Table (2. Wallet UI -> 9: Calc PNL)
+Added Magic Mode (2. Launch UI -> 3: Magic Mode)
+
+Magic Mode  
+Wont say much, but if ur sniping, this is prolly the fastest and most consistent method now, after tests the results were as follows with no VPS and a 50$ helius RPC. 
+block 1
+block 3
+block 4
+block 1
+if you see "error invalid public key input" after a few JITO TX links, pls check the PF to see if they landed, sometimes it false errors after the bundle lands
+
+
 ## FAQs
 
 **What is a bundler in crypto?**
